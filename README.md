@@ -45,3 +45,5 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 7. Hide and Seek
 - 여러 환경에 적합한 위장패턴을 생성
 - 검출은 인물구별용 딥러닝 모델을 사용한다
+
+8. Fake news detection
