@@ -68,4 +68,5 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
   - 서양화 및 동양화를 모아놓은 사이트(캡션 있음)
 - [Chinese Paintings Dataset](https://github.com/ychen93/Chinese-Painting-Dataset)
   - CS231n 텀프로젝트에서 스탠포드 학생들이 모은 중국화(5200여장)
-  
+- [우키요에(일본 목판화) 데이터베이스](https://ukiyo-e.org/)
+  - 22만건의 방대한 데이터 
