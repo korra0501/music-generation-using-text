@@ -11,10 +11,7 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 3. 당신의 접근이 새로운 이유와 성공적이라고 생각하는 이유는 무엇인가?
 4. 누가 당신의 연구를 필요로 하는가?
 5. 성공한다면, 어떤 변화를 만들어 낼 수 있을 것인가?-> 비지니스 및 기술적 변화 서술
-6. 리스크와 댓가는 무엇인가?
-7. 비용은 얼마나 드는가?
-8. 얼마나 오래 걸리는가?
-9. 성공을 위한 중간과 마지막 체크리스트는 무엇인가?
+6. 성공을 위한 중간과 마지막 체크리스트는 무엇인가?
 
 ### Project 주제 후보군
 
@@ -58,3 +55,17 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 10. Draw Oriental Paintings
 - 글에 어울리는 동양화 생성
 - 9번의 연장선
+
+## 참고자료
+- [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
+- [AttnGAN의 간단한 한글설명](https://blog.naver.com/PostView.nhn?blogId=blogstock&logNo=221189113859&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
+- [Chinese Paintings by GAN](http://cs231n.stanford.edu/reports/2017/pdfs/311.pdf)
+
+## 데이터셋
+- [The Behance Artistic Media Dataset](https://bam-dataset.org/)
+  - 아마추어 작가들의 그림과, 캡션을 모아놓은 사이트(75000여건)
+- [WIKIART](https://www.wikiart.org/en/wu-daozi)
+  - 서양화 및 동양화를 모아놓은 사이트(캡션 있음)
+- [Chinese Paintings Dataset](https://github.com/ychen93/Chinese-Painting-Dataset)
+  - CS231n 텀프로젝트에서 스탠포드 학생들이 모은 중국화(5200여장)
+  
