@@ -30,33 +30,20 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - 미리듣기 음악으로 전체 음악을 구성할 수 있을까...?
 - 구성한다면 기존의 원본 음악과의 차이는?
 
-4. Game master
-- 테트리스에서 고득점을 얻는 방법으로 블록을 쌓을 것인가...!
-
-5. Mosaic to Original
-- 모자이크를 벗겨...보자!
-
-6. Spot the Difference
-- 기존의 이미지에서 n개의 변경점을 가진 틀린그림찾기 이미지를 생성
-
-7. Hide and Seek
+4. Hide and Seek
 - 여러 환경에 적합한 위장패턴을 생성
 - 검출은 인물구별용 딥러닝 모델을 사용한다
 
-8. Fake news detection
+5. Fake news detection
 - 기사의 내용이 진짜인지 탐지
 - MIT 해커톤에서 만든 것으로는 90%이상의 정확도 보여줌
 - 한국어 기사에 적용할 시 정확도는...?
 
-9. Make Illustrations
-- 글 내용에 어울리는 삽화 생성
-- 글에 포함된 단어와 중요 부분으로...?
-
-10. Draw Oriental Paintings
+6. Draw Oriental Paintings
 - 글에 어울리는 동양화 생성
 - 9번의 연장선
 
-11. Generate music by text sentiment analysis
+7. Generate music by text sentiment analysis
 - 입력 텍스트에 대한 sentiment analysis 진행[참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
 - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
 
