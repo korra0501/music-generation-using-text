@@ -57,4 +57,4 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 
 10. Draw Oriental Paintings
 - 글에 어울리는 동양화 생성
-- 9번의 
+- 9번의 연장선
