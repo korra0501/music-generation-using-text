@@ -39,11 +39,10 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - MIT 해커톤에서 만든 것으로는 90%이상의 정확도 보여줌
 - 한국어 기사에 적용할 시 정확도는...?
 
-6. Draw Oriental Paintings
+6. **Draw Oriental Paintings**
 - 글에 어울리는 동양화 생성
-- 9번의 연장선
 
-7. Generate music by text sentiment analysis
+7. **Generate music by text sentiment analysis**
 - 입력 텍스트에 대한 sentiment analysis 진행
   - [참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
 - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
