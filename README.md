@@ -54,3 +54,7 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 9. Make Illustrations
 - 글 내용에 어울리는 삽화 생성
 - 글에 포함된 단어와 중요 부분으로...?
+
+10. Draw Oriental Paintings
+- 글에 어울리는 동양화 생성
+- 9번의 
