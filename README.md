@@ -44,15 +44,17 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - 9번의 연장선
 
 7. Generate music by text sentiment analysis
-- 입력 텍스트에 대한 sentiment analysis 진행[참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
+- 입력 텍스트에 대한 sentiment analysis 진행
+  - [참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
 - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
-
+- [표정에서 읽은 감정에 기반한 음악 생성](http://www.scitepress.org/Papers/2018/65977/65977.pdf)
 ## 참고자료
 - [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
 - [AttnGAN의 간단한 한글설명](https://blog.naver.com/PostView.nhn?blogId=blogstock&logNo=221189113859&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 - [Chinese Paintings by GAN](http://cs231n.stanford.edu/reports/2017/pdfs/311.pdf)
 - [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf)
   - [Pytorch Implementation](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [ArtGAN](https://arxiv.org/pdf/1702.03410.pdf)
 ## 데이터셋
 - [The Behance Artistic Media Dataset](https://bam-dataset.org/)
   - 아마추어 작가들의 그림과, 캡션을 모아놓은 사이트(75000여건)
