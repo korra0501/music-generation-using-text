@@ -34,4 +34,14 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - 구성한다면 기존의 원본 음악과의 차이는?
 
 4. Game master
-- 
+- 테트리스에서 고득점을 얻는 방법으로 블록을 쌓을 것인가...!
+
+5. Mosaic to Original
+- 모자이크를 벗겨...보자!
+
+6. Spot the Difference
+- 기존의 이미지에서 n개의 변경점을 가진 틀린그림찾기 이미지를 생성
+
+7. Hide and Seek
+- 여러 환경에 적합한 위장패턴을 생성
+- 검출은 인물구별용 딥러닝 모델을 사용한다
