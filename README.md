@@ -55,6 +55,15 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf)
   - [Pytorch Implementation](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [ArtGAN](https://arxiv.org/pdf/1702.03410.pdf)
+- [MuseGAN](https://salu133445.github.io/musegan/pdf/musegan-aaai2018-slides.pdf)
+  - Pop music 생성기
+- [Music Gen. with Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
+- [GAN 참고자료](https://github.com/nashory/gans-awesome-applications)
+- [Music Gen. from MIDI datasets](https://neuro.cs.ut.ee/wp-content/uploads/2018/02/MIDI_music.pdf)
+- [cs224d Deep Learning for Music](https://cs224d.stanford.edu/reports/allenh.pdf)
+- [Training GAN on small dataset of images](https://stackoverflow.com/questions/48601991/training-gan-on-small-dataset-of-images)
+  - 적은 image dataset일 때의 질문이지만, 해결책은 music에도 적용 가능하리라 생각
+- [Music Comp. using RNN](https://web.stanford.edu/class/cs224n/reports/2762076.pdf)
 ## 데이터셋
 - [The Behance Artistic Media Dataset](https://bam-dataset.org/)
   - 아마추어 작가들의 그림과, 캡션을 모아놓은 사이트(75000여건)
@@ -64,3 +73,5 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
   - CS231n 텀프로젝트에서 스탠포드 학생들이 모은 중국화(5200여장)
 - [우키요에(일본 목판화) 데이터베이스](https://ukiyo-e.org/)
   - 22만건의 방대한 데이터 
+- [Open Datasets](https://skymind.ai/wiki/open-datasets)
+  - Music dataset 외에도 다양
