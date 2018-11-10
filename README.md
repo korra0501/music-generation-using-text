@@ -16,14 +16,16 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 ### Project 주제 후보군
 
 **1. Draw Oriental Paintings**
-- 글에 어울리는 동양화 생성
-
+  - 목표: 글에 어울리는 동양화 생성
+  - 이 분야의 진척 상황: AttnGAN 
+  
 **2. Generate music by text sentiment analysis**
 - 입력 텍스트에 대한 sentiment analysis 진행
   - [참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
 - [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
 - [표정에서 읽은 감정에 기반한 음악 생성](http://www.scitepress.org/Papers/2018/65977/65977.pdf)
-- 음악은 클래식 음악 및 뉴에이지 음악으로
+- 음악은 동양음악으로 설정?
+- [C-RNN-GAN](https://medium.com/cindicator/music-generation-with-neural-networks-gan-of-the-week-b66d01e28200)
 
 3. Text to Handwriting
 - 나의 손글씨로 문장을 변환해보자...!
