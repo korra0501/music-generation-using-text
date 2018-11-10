@@ -56,6 +56,10 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - 글에 어울리는 동양화 생성
 - 9번의 연장선
 
+11. Generate music by text sentiment analysis
+- 입력 텍스트에 대한 sentiment analysis 진행[참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
+- [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
+
 ## 참고자료
 - [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
 - [AttnGAN의 간단한 한글설명](https://blog.naver.com/PostView.nhn?blogId=blogstock&logNo=221189113859&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
