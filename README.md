@@ -60,7 +60,8 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
 - [AttnGAN의 간단한 한글설명](https://blog.naver.com/PostView.nhn?blogId=blogstock&logNo=221189113859&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 - [Chinese Paintings by GAN](http://cs231n.stanford.edu/reports/2017/pdfs/311.pdf)
-
+- [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf)
+  - [Pytorch Implementation](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 ## 데이터셋
 - [The Behance Artistic Media Dataset](https://bam-dataset.org/)
   - 아마추어 작가들의 그림과, 캡션을 모아놓은 사이트(75000여건)
