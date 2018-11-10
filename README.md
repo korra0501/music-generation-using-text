@@ -47,3 +47,10 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - 검출은 인물구별용 딥러닝 모델을 사용한다
 
 8. Fake news detection
+- 기사의 내용이 진짜인지 탐지
+- MIT 해커톤에서 만든 것으로는 90%이상의 정확도 보여줌
+- 한국어 기사에 적용할 시 정확도는...?
+
+9. Make Illustrations
+- 글 내용에 어울리는 삽화 생성
+- 글에 포함된 단어와 중요 부분으로...?
