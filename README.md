@@ -15,39 +15,42 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 
 ### Project 주제 후보군
 
-1. Text to Handwriting
+**1. Draw Oriental Paintings**
+  - 목표: 글에 어울리는 동양화 생성
+  - 이 분야의 진척 상황: AttnGAN 
+  
+**2. Generate music by text sentiment analysis**
+- 입력 텍스트에 대한 sentiment analysis 진행
+  - [참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
+- [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
+- [표정에서 읽은 감정에 기반한 음악 생성](http://www.scitepress.org/Papers/2018/65977/65977.pdf)
+- 음악은 동양음악으로 설정?
+- [C-RNN-GAN](https://medium.com/cindicator/music-generation-with-neural-networks-gan-of-the-week-b66d01e28200)
+
+3. Text to Handwriting
 - 나의 손글씨로 문장을 변환해보자...!
 - http://www.cs.toronto.edu/~graves/handwriting.html
 - https://github.com/szcom/rnnlib
 
-2. Deep to Deep
+4. Deep to Deep
 - 딥러닝 네트워크를 이용한 딥러닝 코드작성
 - 이것보다는 파이썬의 코드나 C 코드를 생성해주는 딥러닝 네트워크는 어떨까
 - 또는 동일 기능의 python 코드와 c코드를 작성하여 프로그래밍 언어 번역기 만들기...!
 - https://github.com/kootenpv/neural_complete
 
-3. Sample to Full
+5. Sample to Full
 - 미리듣기 음악으로 전체 음악을 구성할 수 있을까...?
 - 구성한다면 기존의 원본 음악과의 차이는?
 
-4. Hide and Seek
+6. Hide and Seek
 - 여러 환경에 적합한 위장패턴을 생성
 - 검출은 인물구별용 딥러닝 모델을 사용한다
 
-5. Fake news detection
+7. Fake news detection
 - 기사의 내용이 진짜인지 탐지
 - MIT 해커톤에서 만든 것으로는 90%이상의 정확도 보여줌
 - 한국어 기사에 적용할 시 정확도는...?
 
-6. Draw Oriental Paintings
-- 글에 어울리는 동양화 생성
-- 9번의 연장선
-
-7. Generate music by text sentiment analysis
-- 입력 텍스트에 대한 sentiment analysis 진행
-  - [참조](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/#e-감성분류)
-- [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 모델 사용
-- [표정에서 읽은 감정에 기반한 음악 생성](http://www.scitepress.org/Papers/2018/65977/65977.pdf)
 ## 참고자료
 - [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
 - [AttnGAN의 간단한 한글설명](https://blog.naver.com/PostView.nhn?blogId=blogstock&logNo=221189113859&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
