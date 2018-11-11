@@ -27,6 +27,8 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - 음악은 동양음악으로 설정?
 - [C-RNN-GAN](https://medium.com/cindicator/music-generation-with-neural-networks-gan-of-the-week-b66d01e28200)
 
+### 이 외의 아이디어들
+
 3. Text to Handwriting
 - 나의 손글씨로 문장을 변환해보자...!
 - http://www.cs.toronto.edu/~graves/handwriting.html
