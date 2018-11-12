@@ -1,7 +1,8 @@
 # deeplearning_project
 2018-2 고려대학교 딥러닝 수업(주재걸 교수님) 프로젝트
 
-# 프로젝트 양식https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss
+# 프로젝트 양식
+https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss
 
 # 연구 Timeline(반드시 1주일에 적어도 한번씩 만나고, 제대로 기한에 맞추어 진행할 것)
 #### 11월 3주
