@@ -4,7 +4,8 @@
 # 프로젝트 양식
 https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss
 
-# 연구 Timeline(반드시 1주일에 적어도 한번씩 만나고, 제대로 기한에 맞추어 진행할 것)
+## 연구 Timeline
+### 반드시 1주일에 적어도 한번씩 만나고, 제대로 기한에 맞추어 진행할 것
 #### 11월 3주
 딥러닝 모델 정하기(감정분석, 음악생성)
 #### 11월 4주
