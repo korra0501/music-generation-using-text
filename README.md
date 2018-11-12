@@ -1,8 +1,19 @@
 # deeplearning_project
 2018-2 고려대학교 딥러닝 수업(주재걸 교수님) 프로젝트
 
-# 프로젝트 양식
-https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss
+# 프로젝트 양식https://www.overleaf.com/latex/templates/template-for-neural-information-processing-systems-nips-2018/zxpdbfpqgxss
+
+# 연구 Timeline(반드시 1주일에 적어도 한번씩 만나고, 제대로 기한에 맞추어 진행할 것)
+#### 11월 3주
+딥러닝 모델 정하기(감정분석, 음악생성)
+#### 11월 4주
+감정분석, 음악 데이터 수집
+#### 11월 5주
+감정에 따른 음악생성
+#### 12월 1주
+감정에 따른 음악생성 실험, 보고서 집필
+#### 12월 2주(딥러닝 프로젝트 발표)
+
 
 ## 프로젝트 평가 기준
 **후보가 다음의 조건을 만족하는지 평가해야 합니다.**
@@ -10,10 +21,8 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 2. 해당 분야의 현재 진척 상황은 어떠며, 현재 연구의 문제점이나 한계는 무엇인가?
 3. 당신의 접근이 새로운 이유와 성공적이라고 생각하는 이유는 무엇인가?
 4. 누가 당신의 연구를 필요로 하는가?
-5. 성공한다면, 어떤 변화를 만들어 낼 수 있을 것인가?-> 비지니스 및 기술적 변화 서술
-6. 성공을 위한 중간과 마지막 체크리스트는 무엇인가?
 
-### Project 주제 후보군
+## Project 주제 후보군
 
 **1. Draw Oriental Paintings**
   - 목표: 글에 어울리는 동양화 생성
@@ -26,32 +35,6 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 - [표정에서 읽은 감정에 기반한 음악 생성](http://www.scitepress.org/Papers/2018/65977/65977.pdf)
 - 음악은 동양음악으로 설정?
 - [C-RNN-GAN](https://medium.com/cindicator/music-generation-with-neural-networks-gan-of-the-week-b66d01e28200)
-
-### 이 외의 아이디어들
-
-3. Text to Handwriting
-- 나의 손글씨로 문장을 변환해보자...!
-- http://www.cs.toronto.edu/~graves/handwriting.html
-- https://github.com/szcom/rnnlib
-
-4. Deep to Deep
-- 딥러닝 네트워크를 이용한 딥러닝 코드작성
-- 이것보다는 파이썬의 코드나 C 코드를 생성해주는 딥러닝 네트워크는 어떨까
-- 또는 동일 기능의 python 코드와 c코드를 작성하여 프로그래밍 언어 번역기 만들기...!
-- https://github.com/kootenpv/neural_complete
-
-5. Sample to Full
-- 미리듣기 음악으로 전체 음악을 구성할 수 있을까...?
-- 구성한다면 기존의 원본 음악과의 차이는?
-
-6. Hide and Seek
-- 여러 환경에 적합한 위장패턴을 생성
-- 검출은 인물구별용 딥러닝 모델을 사용한다
-
-7. Fake news detection
-- 기사의 내용이 진짜인지 탐지
-- MIT 해커톤에서 만든 것으로는 90%이상의 정확도 보여줌
-- 한국어 기사에 적용할 시 정확도는...?
 
 ## 참고자료
 - [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
@@ -80,3 +63,29 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
   - 22만건의 방대한 데이터 
 - [Open Datasets](https://skymind.ai/wiki/open-datasets)
   - Music dataset 외에도 다양
+  
+### 이 외의 아이디어들
+
+3. Text to Handwriting
+- 나의 손글씨로 문장을 변환해보자...!
+- http://www.cs.toronto.edu/~graves/handwriting.html
+- https://github.com/szcom/rnnlib
+
+4. Deep to Deep
+- 딥러닝 네트워크를 이용한 딥러닝 코드작성
+- 이것보다는 파이썬의 코드나 C 코드를 생성해주는 딥러닝 네트워크는 어떨까
+- 또는 동일 기능의 python 코드와 c코드를 작성하여 프로그래밍 언어 번역기 만들기...!
+- https://github.com/kootenpv/neural_complete
+
+5. Sample to Full
+- 미리듣기 음악으로 전체 음악을 구성할 수 있을까...?
+- 구성한다면 기존의 원본 음악과의 차이는?
+
+6. Hide and Seek
+- 여러 환경에 적합한 위장패턴을 생성
+- 검출은 인물구별용 딥러닝 모델을 사용한다
+
+7. Fake news detection
+- 기사의 내용이 진짜인지 탐지
+- MIT 해커톤에서 만든 것으로는 90%이상의 정확도 보여줌
+- 한국어 기사에 적용할 시 정확도는...?
