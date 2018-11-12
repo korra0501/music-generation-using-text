@@ -7,7 +7,7 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 ## 연구 Timeline
 ### 반드시 1주일에 적어도 한번씩 만나고, 제대로 기한에 맞추어 진행할 것
 #### 11월 3주
-계획: 딥러닝 모델 구체적으로 결정(감정분석, 음악생성), 모델에 대해 정확하고 자세하게 알아오기
+**계획: 딥러닝 모델 구체적으로 결정(감정분석, 음악생성), 모델에 대해 정확하고 자세하게 알아오기**
 
 실제: 
 
@@ -16,7 +16,7 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 실제 모인 날:
 
 #### 11월 4주
-셰획: 감정분석 모델 구현 및 실험, 음악 데이터 수집
+**계획: 감정분석 모델 구현 및 실험, 음악 데이터 수집**
 
 실제:
 
@@ -25,7 +25,7 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 실제 모인 날:
 
 #### 11월 5주
-계획: 감정에 따른 음악생성 모델 구현
+**계획: 감정에 따른 음악생성 모델 구현**
 
 실제:
 
@@ -34,7 +34,7 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 실제 모인 날:
 
 #### 12월 1주
-계획: 감정에 따른 음악생성 실험, 보고서 집필
+**계획: 감정에 따른 음악생성 실험, 보고서 집필**
 
 실제:
 
