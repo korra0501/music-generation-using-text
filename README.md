@@ -9,14 +9,15 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 #### 11월 3주
 - **계획: 딥러닝 모델 구체적으로 결정(감정분석, 음악생성), 모델에 대해 정확하고 자세하게 알아오기**
 - 실제: 
-- [무료 감정분석 데이셋 15개](https://gengo.ai/datasets/15-free-sentiment-analysis-datasets-for-machine-learning/?utm_campaign=c&utm_medium=quora&utm_source=rei)
-    - 감정분석 데이터셋: Stanford140(1.4Million Twitter dataset)
-- 감정분석 모델
+### 감정분석 데이터셋
+#### 문제점: 인간의 다양한 감정을 분류할 수 있는 데이터셋이 없음(대부부 긍정-부정 분류)
+- 데이터셋: [무료 감정분석 데이셋 15개](https://gengo.ai/datasets/15-free-sentiment-analysis-datasets-for-machine-learning/?utm_campaign=c&utm_medium=quora&utm_source=rei)
+- **Stanford140(140만개의 트위터 데이터셋, 감정 종류:긍정, 부정, 중립)**
     - [Standford140 분석 글목록](https://towardsdatascience.com/search?q=Another%20Twitter%20sentiment%20analysis%20with%20Python%E2%80%8A) 
     - [Word2Vec+CNN](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
     - [iPython파일](https://github.com/tthustla/twitter_sentiment_analysis_part11/blob/master/Capstone_part11.ipynb)
     - [Stanford 140 논문](https://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf) 
-    ** 
+- ****
 - 음악생성 모델 
 
 
@@ -26,8 +27,8 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 #### 11월 4주
 - **계획: 감정분석 모델 구현 및 실험, 음악 데이터 수집**
 - 실제: 
-- 모이기로 한 날:
-- 실제 모인 날:
+- 모이기로 한 날: 
+- 실제 모인 날: 
 
 #### 11월 5주
 - **계획: 감정에 따른 음악생성 모델 구현**
