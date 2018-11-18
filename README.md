@@ -9,6 +9,13 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
 #### 11월 3주
 - **계획: 딥러닝 모델 구체적으로 결정(감정분석, 음악생성), 모델에 대해 정확하고 자세하게 알아오기**
 - 실제: 
+  - 감정분석 데이터셋: Stanford140(1.4Million Twitter dataset)
+  - 감정분석 모델: [여기](https://towardsdatascience.com/search?q=Another%20Twitter%20sentiment%20analysis%20with%20Python%E2%80%8A) 참고
+  - 
+  - 음악생성 모델
+-> 
+
+
 - 모이기로 한 날: 11월 18일 일요일
 - 실제 모인 날: 11월 18일 일요일
 
