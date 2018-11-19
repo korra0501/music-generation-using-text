@@ -17,10 +17,13 @@ https://www.overleaf.com/latex/templates/template-for-neural-information-process
     - [Word2Vec+CNN](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
     - [iPython파일](https://github.com/tthustla/twitter_sentiment_analysis_part11/blob/master/Capstone_part11.ipynb)
     - [Stanford 140 논문](https://cs.stanford.edu/people/alecmgo/papers/TwitterDistantSupervision09.pdf) 
-- ****
-- 음악생성 모델 
 
+- **네이버 영화리뷰 데이터셋(감정 종류: 긍정, 부정)**
+- [BiLSTM을 이용한 영화 감성분류](https://github.com/MSWon/Sentimental-Analysis)
 
+### 음악생성 모델 
+- [문학 기반 음악생성](http://www.aclweb.org/anthology/W14-0901)
+- [Composing music with RNN](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 - 모이기로 한 날: 11월 18일 일요일
 - 실제 모인 날: 11월 18일 일요일
 
