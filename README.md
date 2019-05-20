@@ -1,8 +1,8 @@
 # Generating music based on sentiment of input text
 Project of Deep Learning class(Prof.Jaegul Choo)
 
-#### You can check code & implementation on .ipynb(Jupyter Notebook) file.
-#### 'Music Generation based on Emotions(최종).pdf' is the final project report, written in LaTex.
+- **You can check code & implementation on .ipynb(Jupyter Notebook) file.**
+- **'Music Generation based on Emotions(최종).pdf' is the final project report, written in LaTex.**
 
 
 ### Project Report Template(NIPS)
